@@ -1,1 +1,1 @@
-algorithm sample
+an algorithm sample
